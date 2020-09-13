@@ -1,2 +1,1 @@
-# rsschool-cv
-#
+https://github.com/Hat3ter/rsschool-cv
