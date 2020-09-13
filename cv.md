@@ -3,12 +3,11 @@ Alexandr Pavliychenkov
 
 Contacts
 ---
-
     country:  Republic of Belarus
     city:     Gomel
     e-mail:   a.pavliychenkov@gmail.com
     phone:    +375 (44) 784 28 83
-
+    
 Skills
 ---
 * Spring (Web, Data, Boot, Cloud, Security)
@@ -20,7 +19,6 @@ Skills
     * SQL(PostgreSQL)
 * CI/CD: Jenkins
 * DevOps: Docker 
-
 
 Experience 
 ---
@@ -35,6 +33,6 @@ Education
 
 English 
 ---
-pre-intermediate
+pre-intermediate 
     
     
