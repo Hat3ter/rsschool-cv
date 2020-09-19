@@ -1,0 +1,66 @@
+.root {
+    margin: auto;
+    border: black solid 1px;
+    overflow: visible;
+    width: 1024px;
+    height: 1000px;
+}
+
+.img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: #d7d7d7 solid 7px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.photo {
+    margin: auto;
+    height: 200px;
+    background-color: #ededed;
+}
+
+.about {
+    color: white;
+    padding: 45px;
+    font-family: Arial, sans-serif;
+}
+
+.left {
+    background-color: #000000;
+    margin: auto;
+    width: 335px;
+    height: 1000px;
+    float: left;
+    alignment: center;
+}
+
+.right {
+    width: 669px;
+    height: 1000px;
+    float: left;
+    background-color: #f9f9f9;
+    margin: auto;
+    padding-left: 20px;
+}
+
+span {
+    color: #939393;
+}
+
+h1 {
+    font: bold 46px Arial Black, sans-serif;
+    margin-top: 60px;
+}
+
+.name {
+    margin-left: 30px;
+    height: 110px;
+}
+
+.content {
+    margin: 30px;
+    color: #000000;
+}
